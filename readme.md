@@ -11,7 +11,7 @@ Matricules:
 
 Pour lancer le client : (dans le bon dossier)
 
-$ python client-abalone port pseudo
+$ python client abalone.py port pseudo
 
 Nous avons codé une IA pour jouer à Abalone pour notre cours de Programmation de l'Ecam. D'abord, l'IA calcule les coups possibles.
 
